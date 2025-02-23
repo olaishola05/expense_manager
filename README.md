@@ -27,11 +27,13 @@ Clone the repo
   cd expense_manager
 ```
 
-## Running Tests
+## Running the project locally
 
-To run tests, run the following command
+To run the project and test functionalities
 
 - To create expense
+
+The `created_at` is a variable containing a function that create a new date and format the date using the UTC timezone
 
 ```python
   
